@@ -1,19 +1,19 @@
-# 👨‍💼 Employee Login Management System
+# Employee Login Management System
 
 A desktop-based Employee Login Management System developed using **Java Swing**, **JDBC**, and **Oracle Database 11g XE**. The application provides secure employee authentication, profile viewing, login activity tracking, and automatic login history storage with an intuitive graphical user interface.
 
 ---
 
-## 🚀 Features
+## Features
 
-### 🔐 Employee Authentication
+### Employee Authentication
 
 * Secure Employee Login
 * Employee ID and Password Validation
 * Database-Based Authentication
 * Invalid Login Detection
 
-### 👤 Employee Profile Dashboard
+### Employee Profile Dashboard
 
 After successful login, the system displays:
 
@@ -25,26 +25,26 @@ After successful login, the system displays:
 * Login Date & Time
 * Employee Profile Picture
 
-### 🕒 Real-Time Date & Time
+### Real-Time Date & Time
 
 * Live System Date Display
 * Live System Time Display
 * Automatic Updates Using Java Timer
 
-### 📋 Login Activity Tracking
+### Login Activity Tracking
 
 * Automatic Login History Recording
 * Unique Login ID Generation
 * Login Timestamp Storage
 * Employee Login Audit Trail
 
-### 🖼 Profile Picture Support
+### Profile Picture Support
 
 * Employee Photo Storage Path
 * Automatic Image Loading
 * Scaled Profile Picture Display
 
-### 🗄 Database Integration
+### Database Integration
 
 * Oracle Database 11g XE Connectivity
 * Automatic Table Creation
@@ -53,7 +53,7 @@ After successful login, the system displays:
 
 ---
 
-## 🛠 Technology Stack
+## Technology Stack
 
 | Technology             | Purpose                   |
 | ---------------------- | ------------------------- |
@@ -64,7 +64,7 @@ After successful login, the system displays:
 | SQL                    | Data Manipulation         |
 | ImageIO                | Profile Image Processing  |
 
-## 🗄 Database Schema
+## Database Schema
 ---
 ### EMPLOYEE Table
 
@@ -94,7 +94,7 @@ CREATE TABLE LOGIN
 
 ---
 
-## ⚙️ Oracle Database Configuration
+## Oracle Database Configuration
 
 ### JDBC Driver
 
@@ -120,7 +120,7 @@ DriverManager.getConnection(
 
 ---
 
-## 📋 Functional Modules
+## Functional Modules
 
 ### Employee Login
 
@@ -148,7 +148,7 @@ DriverManager.getConnection(
 
 ---
 
-## 🖥 User Interface Features
+## User Interface Features
 
 ### Login Window
 
@@ -169,7 +169,7 @@ DriverManager.getConnection(
 
 ---
 
-## 🎯 Key Concepts Implemented
+## Key Concepts Implemented
 
 * Java Swing GUI Development
 * JDBC Programming
@@ -183,7 +183,7 @@ DriverManager.getConnection(
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ### Step 1: Start Oracle Database
 
@@ -219,7 +219,7 @@ java MainClass
 
 ---
 
-## 🔒 Security Features
+## Security Features
 
 * Employee Authentication
 * Password Verification
@@ -229,7 +229,7 @@ java MainClass
 
 ---
 
-## 📸 Application Workflow
+## Application Workflow
 
 1. Launch Application
 2. Enter Employee ID
@@ -242,7 +242,7 @@ java MainClass
 
 ---
 
-## 📚 Educational Objectives
+## Educational Objectives
 
 This project demonstrates practical implementation of:
 
@@ -256,15 +256,6 @@ This project demonstrates practical implementation of:
 * Event-Driven Programming
 
 ---
-
-## 👨‍💻 Author
-
-**Soumyadeep Basu**
-
-Java Swing + Oracle Database Employee Login Management System
-
----
-
-## 📜 License
+## License
 
 This project is developed for educational, academic, and learning purposes.
