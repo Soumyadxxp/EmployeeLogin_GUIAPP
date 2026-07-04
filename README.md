@@ -1,6 +1,9 @@
 # Employee Login Management System
 
 A desktop-based Employee Login Management System developed using **Java Swing**, **JDBC**, and **Oracle Database 11g XE**. The application provides secure employee authentication, profile viewing, login activity tracking, and automatic login history storage with an intuitive graphical user interface.
+<img width="1600" height="844" alt="image" src="https://github.com/user-attachments/assets/f307d18b-ed41-4b52-9eb8-87e8d2819f5d" />
+<img width="1600" height="844" alt="image" src="https://github.com/user-attachments/assets/9c8d11eb-85d5-4fb1-a4ea-a34c72962bf1" />
+<img width="1600" height="844" alt="image" src="https://github.com/user-attachments/assets/c59f19fb-7bab-4438-8a3b-bfd1b05dc6d4" />
 
 ---
 
