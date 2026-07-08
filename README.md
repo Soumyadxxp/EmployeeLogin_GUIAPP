@@ -69,35 +69,7 @@ After successful login, the system displays:
 | SQL                    | Data Manipulation         |
 | ImageIO                | Profile Image Processing  |
 
-## Database Schema
----
-### EMPLOYEE Table
 
-```sql
-CREATE TABLE EMPLOYEE
-(
-    EMPLOYEEID VARCHAR2(15) PRIMARY KEY,
-    FNAME      VARCHAR2(15),
-    LNAME      VARCHAR2(15),
-    DEPT       VARCHAR2(15),
-    DESIG      VARCHAR2(15),
-    PWD        VARCHAR2(15),
-    PROPICT    VARCHAR2(150)
-);
-```
-
-### LOGIN Table
-
-```sql
-CREATE TABLE LOGIN
-(
-    LOGINID    CHAR(15) PRIMARY KEY,
-    EMPLOYEEID VARCHAR2(15),
-    LOGINTIME  DATE
-);
-```
-
----
 
 ## Oracle Database Configuration
 
