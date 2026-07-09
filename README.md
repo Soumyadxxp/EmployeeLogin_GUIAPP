@@ -7,7 +7,7 @@ A desktop-based Employee Login Management System developed using **Java Swing**,
 <img width="1280" height="458" alt="image" src="https://github.com/user-attachments/assets/1e776682-4193-42b7-8a96-27d4b28e5ea8" />
 
 
----
+---   
 
 ## Features
 
