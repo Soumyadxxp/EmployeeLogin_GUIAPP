@@ -4,7 +4,8 @@ A desktop-based Employee Login Management System developed using **Java Swing**,
 <img width="1600" height="844" alt="image" src="https://github.com/user-attachments/assets/f307d18b-ed41-4b52-9eb8-87e8d2819f5d" /> 
 <img width="1600" height="844" alt="image" src="https://github.com/user-attachments/assets/9c8d11eb-85d5-4fb1-a4ea-a34c72962bf1" />
 <img width="1600" height="848" alt="image" src="https://github.com/user-attachments/assets/01a6f9bf-f562-449a-a1d3-c347624370eb" />
-<img width="1280" height="458" alt="image" src="https://github.com/user-attachments/assets/1e776682-4193-42b7-8a96-27d4b28e5ea8" />
+<img width="1919" height="863" alt="Screenshot 2026-07-10 161326" src="https://github.com/user-attachments/assets/16cdc418-0d5b-4c25-8fc7-00dde17881bb" />
+<img width="1919" height="877" alt="Screenshot 2026-07-10 161246" src="https://github.com/user-attachments/assets/36e06d84-65f1-4b71-8e20-2129225f3e04" />
 
 
 ---   
