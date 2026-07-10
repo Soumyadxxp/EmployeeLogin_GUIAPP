@@ -110,6 +110,11 @@ class MainPanel extends JPanel
                             JOptionPane.showMessageDialog(null, "Employee Not Found");
                         }
                     }
+                    else if(ob == btnReset)
+                    {
+                        txtUID.setText("");
+                        txtPwd.setText("");
+                    }
                 }
                 catch(Exception ex)
                 {
