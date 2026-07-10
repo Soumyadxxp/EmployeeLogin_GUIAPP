@@ -72,7 +72,50 @@ After successful login, the system displays:
 
 
 ## Oracle Database Configuration
+## Database Schema
 
+### EMPLOYEE
+
+```sql
+
+CREATE TABLE EMPLOYEE (
+
+    EMPLOYEEID VARCHAR(15) PRIMARY KEY,
+
+    FNAME VARCHAR(15),
+
+    LNAME VARCHAR(15),
+
+    DEPT VARCHAR(15),
+
+    DESIG VARCHAR(15),
+
+    PWD VARCHAR(15),
+
+    PROPPICT VARCHAR(150)
+
+);
+
+```
+
+### LOGIN
+
+```sql
+
+CREATE TABLE LOGIN (
+
+    LOGINID CHAR(15) PRIMARY KEY,
+
+    EMPLOYEEID VARCHAR(15),
+
+    LOGINTIME DATE,
+
+    FOREIGN KEY (EMPLOYEEID)
+
+    REFERENCES EMPLOYEE(EMPLOYEEID)
+
+);
+```
 ### JDBC Driver
 
 ```java
