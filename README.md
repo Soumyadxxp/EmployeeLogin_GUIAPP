@@ -82,19 +82,12 @@ After successful login, the system displays:
 CREATE TABLE EMPLOYEE (
 
     EMPLOYEEID VARCHAR(15) PRIMARY KEY,
-
     FNAME VARCHAR(15),
-
     LNAME VARCHAR(15),
-
     DEPT VARCHAR(15),
-
     DESIG VARCHAR(15),
-
     PWD VARCHAR(15),
-
     PROPPICT VARCHAR(150)
-
 );
 
 ```
